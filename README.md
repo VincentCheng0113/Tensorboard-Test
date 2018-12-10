@@ -1,2 +1,0 @@
-Facenet Embedding Visualisation
-
